@@ -1,0 +1,5 @@
+tk
+numpy
+glob2
+pandas
+openpyxl
